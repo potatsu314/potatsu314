@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/potatsu314/potatsu314/refs/heads/main/bk_laying1.png" alt="banner">
 </p>
 
-<h1 align="center">Hey! I'm potasu!</h1>
+<h1 align="center">Hey! I'm Tasu!</h1>
 
 <p align="center">Thanks for coming here :3</p>
 &nbsp;
